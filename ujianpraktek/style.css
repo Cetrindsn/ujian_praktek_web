@@ -1,0 +1,42 @@
+body{
+		padding-top: 20px;
+		background-color: #ffffb3;
+	}
+
+	strong{
+		font-size: 30px;
+		}
+
+	.hasil{
+		border-collapse: collapse;
+		width: 100%;
+	}
+
+	.hasil th, td{
+		text-align: center;
+		padding: 8px;
+	}
+
+	.hasil th{
+	background-color: black;
+		color: white;
+	}
+
+	.hasil tr:nth-child(odd){
+  	background:#d6d6c2; 
+	}
+	.hasil tr:nth-child(even){
+		background-color: #ccffff;
+	}
+
+	#button{
+		background-color: #999966;
+		color: black;
+	}
+
+	#button:hover{
+		background-color: #ff0000;
+		color: white;
+	}
+
+	
